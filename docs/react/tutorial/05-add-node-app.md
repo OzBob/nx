@@ -110,7 +110,7 @@ server.on('error', console.error);
 ```
 
 !!!!!
-Run "ng serve api" and open https://localhost:3333/api/todos. What do you see?
+Run "ng serve api" and open http://localhost:3333/api/todos. What do you see?
 !!!!!
 `[{"title":"Todo 1"},{"title":"Todo 2"}]`
 Blank screen
